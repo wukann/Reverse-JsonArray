@@ -1,0 +1,52 @@
+[
+    {
+        "group": 1,
+        "leader": "souji",
+        "leader_jp": "総司"
+    },
+    {
+        "group": 2,
+        "leader": "shinpachi",
+        "leader_jp": "新八"
+    },
+    {
+        "group": 3,
+        "leader": "hajime",
+        "leader_jp": "一"
+    },
+    {
+        "group": 4,
+        "leader": "chuji",
+        "leader_jp": "忠司"
+    },
+    {
+        "group": 5,
+        "leader": "kanryusai",
+        "leader_jp": "観柳斎"
+    },
+    {
+        "group": 6,
+        "leader": "genzaburo",
+        "leader_jp": "源三郎"
+    },
+    {
+        "group": 7,
+        "leader": "sanjuro",
+        "leader_jp": "三十郎"
+    },
+    {
+        "group": 8,
+        "leader": "heisuke",
+        "leader_jp": "平助"
+    },
+    {
+        "group": 9,
+        "leader": "mikisaburo",
+        "leader_jp": "三樹三郎"
+    },
+    {
+        "group": 10,
+        "leader": "sanosuke",
+        "leader_jp": "左之助"
+    }
+]
